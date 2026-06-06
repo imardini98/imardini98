@@ -1,18 +1,4 @@
-# <h1 align="center">👨‍🚀 Ivan Mardini</h1>
 
-<h3 align="center">
-AI-First Software Architect • Distributed Systems Engineer • Infrastructure as Code
-</h3>
-
-<p align="center">
-Building scalable systems, intelligent software, and the infrastructure that powers them.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imardinig&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
 
 ## 🚀 About Me
 
