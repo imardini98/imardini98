@@ -18,10 +18,9 @@ Building scalable systems, intelligent software, and the infrastructure that pow
 
 📍 **Hamburg, Germany**
 🎓 **M.Sc. in Electronic Engineering**
-💻 **5+ years building production software systems**
+💻 **6+ years building production software systems**
 🧠 **AI-First Engineering & Software Architecture**
-📄 **Co-author of scientific publications**
-🌌 **Interested in Space Technology & Aerospace Systems**
+📄 **Author and Co-author of scientific publications**
 
 I design and build software systems with a strong focus on:
 
@@ -64,7 +63,6 @@ Currently exploring the intersection of **Software Engineering, Artificial Intel
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
 ---
 
